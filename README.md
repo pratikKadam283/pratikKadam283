@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Pratik Kadam]!
+# 👋 Hi there, I'm Pratik Kadam!
 
 I'm a passionate software developer and AI enthusiast with a strong interest in building impactful and scalable tech solutions. I enjoy turning complex problems into clean, efficient code and exploring the endless possibilities of AI and full-stack development.
 
