@@ -34,7 +34,7 @@ I'm a passionate software developer and AI enthusiast with a strong interest in 
 
 ## 🧑‍💻 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratik-kadam-459762253/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratik-kadam-459762253/)
 - 📧 Email: pratikkadam2708@gmail.com
 - 🌐 [Naukari](https://yourportfolio.com](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
